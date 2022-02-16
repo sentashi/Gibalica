@@ -1,2 +1,2 @@
 # Gibalica
-INNOSID Project CS Gibalica G!
+INNOSID Project CS Gibalica G1
